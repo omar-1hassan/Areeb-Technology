@@ -13,4 +13,5 @@ This program allows you to retrieve repository data from the GitHub API. It fetc
 
 - Swift programming language
 - UIKit framework
+- MVVM Architecture Pattern
 - GitHub API
